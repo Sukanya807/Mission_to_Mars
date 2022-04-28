@@ -31,6 +31,10 @@ In this module, the following tools have been used -
 
 ***update your web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out.***
 
-The webapp will look like the following when viewed on Iphone
+The webapp will look like the following when viewed on Iphone 12 Pro.
 
 ![](images/webpage_mobile_view.png)
+
+Other changes in the webapp using ootstrap 3 components look like the following.
+
+![](images/dev_3_changes.png)
