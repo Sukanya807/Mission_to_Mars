@@ -47,3 +47,7 @@ Other changes in the webapp using ootstrap 3 components look like the following 
 
 ##Challenge Files
 - [Mission_to_Mars_Challenge_Jupyter_Notebook](https://github.com/Sukanya807/Mission_to_Mars/blob/main/Mission_to_Mars_Challenge.ipynb)
+- [Mission_to_Mars_Challenge_Python](https://github.com/Sukanya807/Mission_to_Mars/blob/main/Mission_to_Mars_Challenge.py)
+- [Scraping.py](https://github.com/Sukanya807/Mission_to_Mars/blob/main/scraping.py)
+- [Flask app](https://github.com/Sukanya807/Mission_to_Mars/blob/main/app.py)
+- [index.html](https://github.com/Sukanya807/Mission_to_Mars/blob/main/templates/index.html)
