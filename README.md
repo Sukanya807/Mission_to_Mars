@@ -26,3 +26,11 @@ In this module, the following tools have been used -
 ***Using your Python and HTML skills, you’ll add the code you created in Deliverable 1 to your scraping.py file, update your Mongo database, and modify your index.html file so the webpage contains all the information you collected in this module as well as the full-resolution image and title for each hemisphere image.***
 
 ![](images/delv_2.png)
+
+## Deliverable 3
+
+***update your web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out.***
+
+The webapp will look like the following when viewed on Iphone
+
+![](images/webpage_mobile_view.png)
