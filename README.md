@@ -3,7 +3,7 @@ Web Scraping with HTML/CSS
 
 ### Overview & Purpose
 
-This project has been undertaken on behalf of Robin, a junior data scientist, who does freelance astronomy work in her spare time. Her dream is to land a position with NASA someday. So she spends a lot of time visiting news about space exploration, especially the Mission To Mars. Therefore, Web Scraping technique was used to gather and store the latest data. Web Scraping has the ability to pull data from multiple websites,store it in a database and then present the collected data in a central location.In this module, data about Mars including latest news,facts and images have been scraped from different websites.
+This project has been undertaken on behalf of Robin, a junior data scientist, who does freelance astronomy work in her spare time. Her dream is to land a position with NASA someday. So she spends a lot of time visiting news about space exploration, especially the Mission To Mars. Therefore, Web Scraping technique was used to gather and store the latest data. Web Scraping has the ability to pull data from multiple websites,store it in a database and then present the collected data in a central location.In this module, data about Mars including latest news,facts and images have been scraped from different websites. The scraping page is also connected, meaning, everytime the "Scrape New Data" button is clicked, the page will be updated with the latest data available in the websites.
 
 ## Dependencies & Tools
 - Splinter
@@ -13,7 +13,7 @@ This project has been undertaken on behalf of Robin, a junior data scientist, wh
 - MongoDB-no SQL database to store the data
 - Flask for building the framework for the app using Flask and Mongo together
 - HTML
-- Bootstrap
+- Bootstrap 3
 - Jupyter Notebook
 - VS Code
 
