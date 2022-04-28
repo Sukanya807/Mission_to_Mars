@@ -6,16 +6,13 @@ Web Scraping with HTML/CSS
 This project has been undertaken on behalf of Robin, a junior data scientist, who does freelance astronomy work in her spare time. Her dream is to land a position with NASA someday. So she spends a lot of time visiting news about space exploration, especially the Mission To Mars. Therefore, Web Scraping technique was used to gather and store the latest data. Web Scraping has the ability to pull data from multiple websites,store it in a database and then present the collected data in a central location.In this module, data about Mars including latest news,facts and images have been scraped from different websites. The scraping page is also connected, meaning, everytime the "Scrape New Data" button is clicked, the page will be updated with the latest data available in the websites.
 
 ## Dependencies & Tools
-- Splinter
-- DevTools
-- BeautifulSoup
-- ChromeDriverManager
-- MongoDB-no SQL database to store the data
-- Flask for building the framework for the app using Flask and Mongo together
+- Python VS Code
+- Jupyter Notebook
+- MongoDB
 - HTML
 - Bootstrap 3
-- Jupyter Notebook
-- VS Code
+- Flask
+- Pandas,BeautifulSoup,ChromeDriverManager,PyMongo
 
 ## Final look of the webapp
 
@@ -45,7 +42,7 @@ Other changes in the webapp using ootstrap 3 components look like the following 
 
 ![](images/dev_3_changes.png)
 
-##Challenge Files
+## Challenge Files
 - [Mission_to_Mars_Challenge_Jupyter_Notebook](https://github.com/Sukanya807/Mission_to_Mars/blob/main/Mission_to_Mars_Challenge.ipynb)
 - [Mission_to_Mars_Challenge_Python](https://github.com/Sukanya807/Mission_to_Mars/blob/main/Mission_to_Mars_Challenge.py)
 - [Scraping.py](https://github.com/Sukanya807/Mission_to_Mars/blob/main/scraping.py)
