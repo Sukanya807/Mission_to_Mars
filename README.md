@@ -1,5 +1,5 @@
 # Mission_to_Mars
-Splinter,webdriver_manager,beautifulsoup,mongodb
+Web Scraping with HTML/CSS
 
 ### Overview & Purpose
 
@@ -12,6 +12,8 @@ This project has been undertaken on behalf of Robin, a junior data scientist, wh
 - ChromeDriverManager
 - MongoDB-no SQL database to store the data
 - Flask for building the framework for the app using Flask and Mongo together
+- HTML
+- Bootstrap
 - Jupyter Notebook
 - VS Code
 
@@ -42,3 +44,6 @@ The webapp will look like the following when viewed on Iphone 12 Pro.
 Other changes in the webapp using ootstrap 3 components look like the following after adding the background picture, changing the button elements and changing the font color.
 
 ![](images/dev_3_changes.png)
+
+##Challenge Files
+- [Mission_to_Mars_Challenge_Jupyter_Notebook](https://github.com/Sukanya807/Mission_to_Mars/blob/main/Mission_to_Mars_Challenge.ipynb)
