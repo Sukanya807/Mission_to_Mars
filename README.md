@@ -39,6 +39,6 @@ The webapp will look like the following when viewed on Iphone 12 Pro.
 
 ![](images/webpage_mobile_view.png)
 
-Other changes in the webapp using ootstrap 3 components look like the following.
+Other changes in the webapp using ootstrap 3 components look like the following after adding the background picture, changing the button elements and changing the font color.
 
 ![](images/dev_3_changes.png)
