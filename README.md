@@ -17,6 +17,12 @@ In this module, the following tools have been used -
 
 ## Deliverable 1
 
-Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars’s hemispheres and the titles of those images.
+***Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars’s hemispheres and the titles of those images.***
 
 ![](images/delv_1_image.png)
+
+## Deliverable 2
+
+***Using your Python and HTML skills, you’ll add the code you created in Deliverable 1 to your scraping.py file, update your Mongo database, and modify your index.html file so the webpage contains all the information you collected in this module as well as the full-resolution image and title for each hemisphere image.***
+
+![](images/webpage_view.png)
